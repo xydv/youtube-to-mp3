@@ -27,7 +27,7 @@ function Navbar() {
                             </li>
                         </ul>
                     </div>
-                    <button onClick={handleClick} className={`btn btn-${mode === "light" ? "dark" : "light"}`}>{mode === "light" ? "Dark" : "Light"} Mode!</button>
+                    <button onClick={handleClick} className={`btn btn-${mode === "light" ? "dark" : "light"}`}>{mode === "light" ? <i className="bi bi-moon-fill"></i> : <i className="bi bi-sun-fill"></i>}</button>
                 </div>
             </nav>
         </div>
