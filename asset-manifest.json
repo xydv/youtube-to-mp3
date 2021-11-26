@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aditya.is-a.dev/static/css/main.e67fd833.chunk.css",
+    "main.js": "/aditya.is-a.dev/static/js/main.fa8414e4.chunk.js",
+    "main.js.map": "/aditya.is-a.dev/static/js/main.fa8414e4.chunk.js.map",
+    "runtime-main.js": "/aditya.is-a.dev/static/js/runtime-main.ab5c04f9.js",
+    "runtime-main.js.map": "/aditya.is-a.dev/static/js/runtime-main.ab5c04f9.js.map",
+    "static/js/2.0fa3b2db.chunk.js": "/aditya.is-a.dev/static/js/2.0fa3b2db.chunk.js",
+    "static/js/2.0fa3b2db.chunk.js.map": "/aditya.is-a.dev/static/js/2.0fa3b2db.chunk.js.map",
+    "static/js/3.0fef58ac.chunk.js": "/aditya.is-a.dev/static/js/3.0fef58ac.chunk.js",
+    "static/js/3.0fef58ac.chunk.js.map": "/aditya.is-a.dev/static/js/3.0fef58ac.chunk.js.map",
+    "index.html": "/aditya.is-a.dev/index.html",
+    "static/css/main.e67fd833.chunk.css.map": "/aditya.is-a.dev/static/css/main.e67fd833.chunk.css.map",
+    "static/js/2.0fa3b2db.chunk.js.LICENSE.txt": "/aditya.is-a.dev/static/js/2.0fa3b2db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab5c04f9.js",
+    "static/js/2.0fa3b2db.chunk.js",
+    "static/css/main.e67fd833.chunk.css",
+    "static/js/main.fa8414e4.chunk.js"
+  ]
+}
